@@ -1,0 +1,39 @@
+
+body{
+    background-color: lightskyblue;
+}
+
+.navbar-inverse .navbar-brand{
+    color:black;
+    font-size:24px;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+* {
+    font-size:20px;
+}
+
+.datepicker{
+    float:right;
+
+}
+
+form {
+    font-size: 12px;
+    font-family: Verdana, Arial, Sans-Serif;
+    display: inline-block;
+}
+#messages {
+    font-size: 14px;
+    font-family: Garamond, Times, Serif;
+}
+
+#kubiks {
+
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+    background-color: blueviolet;
+    position: relative;
+
+}
